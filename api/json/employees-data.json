@@ -1,0 +1,22 @@
+[
+    {"employeeId": 1, "firstName": "Bob", "lastName": "Smith", "department":
+   "Administration", "salary": "80000", "status": "active"},
+    {"employeeId": 2, "firstName": "Bob", "lastName": "Taylor", "department": "Marketing",
+   "salary": "100000", "status": "active"},
+    {"employeeId": 3, "firstName": "Jim", "lastName": "Taylor", "department": "Software",
+   "salary": "110000", "status": "active"},
+    {"employeeId": 4, "firstName": "Bob", "lastName": "Smith", "department": "Sales",
+   "salary": "100000", "status": "active"},
+    {"employeeId": 5, "firstName": "Rob", "lastName": "Bowen", "department":
+   "Administration", "salary": "85000", "status": "inactive"},
+    {"employeeId": 6, "firstName": "Mark", "lastName": "Taylor", "department": "Software",
+   "salary": "95000", "status": "inactive"},
+    {"employeeId": 7, "firstName": "Erika", "lastName": "Smith", "department": "Sales",
+   "salary": "110000", "status": "active"},
+    {"employeeId": 8, "firstName": "Bob", "lastName": "Smith", "department": "Software",
+   "salary": "105000", "status": "active"},
+    {"employeeId": 9, "firstName": "Rob", "department": "Administration", "salary": "75000",
+   "status": "active"},
+    {"employeeId": 10, "firstName": "Billy", "department": "Marketing", "salary": "95000",
+   "status": "inactive"}
+   ] 
